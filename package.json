@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Mahran Ben Khamsa",
-	"description": "This is my back end dev & APIs certification project."
+	"description": "This is my back end dev & APIs certification project.",
+	"keywords": ["back-end", "certification", "freeCodeCamp"]
 }
