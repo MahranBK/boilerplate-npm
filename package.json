@@ -13,5 +13,6 @@
 	},
 	"author": "Mahran Ben Khamsa",
 	"description": "This is my back end dev & APIs certification project.",
-	"keywords": ["back-end", "certification", "freeCodeCamp"]
+	"keywords": ["back-end", "certification", "freeCodeCamp"],
+	"license": "MIT"
 }
